@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 10:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 11:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -20,25 +20,6 @@
 <p>Das mit dem Bild hatte auch Startschwierigkeiten. Aber jetzt läuft das doch eigentlich ganz stabil. Sollten sich allerdings die Veröffentlichungslinks ändern… Ay Caramba. Das könnte einen nicht aufarbeitbaren Umstand ergeben.</p>
 </blockquote>
 <p><a title="https://joplin.moriartea.de/shares/8n5tZHbVp1V39Slr26emUL" href="https://joplin.moriartea.de/shares/8n5tZHbVp1V39Slr26emUL">Zurück</a></p>
-<style class="jop-noMdConv">
-/* Subdue the top-header branding */
-body.page-note nav.navbar { display: none; }
-
-/* Subdue the JoplinCloud footer */
-body.page-note > div.footer { display: none; }
-</style>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Startseite]]></title>
-            <guid>791e4df6ddb54999aa006b73d2de37d5</guid>
-            <pubDate>Sun, 14 May 2023 19:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[<img style="float:right" src="/_resources/2bf45986652148feba744755e3fe515f.png" width="400" class="jop-noMdConv" />
-# Willkommen bei meinem Blog
-MoriarT3a
-<hr />
-<h3 id="2023-05-14">2023-05-14</h3>
-<p><a title="https://joplin.moriartea.de/shares/wwmqlEAaRoGvwIfzKy3buQ" href="https://joplin.moriartea.de/shares/wwmqlEAaRoGvwIfzKy3buQ">Das Experiment beginnt</a></p>
 <style class="jop-noMdConv">
 /* Subdue the top-header branding */
 body.page-note nav.navbar { display: none; }
