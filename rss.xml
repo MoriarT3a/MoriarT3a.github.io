@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Sep 2023 10:06:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Das Experiment beginnt]]></title>
+            <guid>5f93c6f96921471cbdf9f0bcc43fcd98</guid>
+            <pubDate>Sun, 14 May 2023 19:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="2023-05-14">2023-05-14</h1>
+<p>Na das Wetter kann ja doch mal gut sein… Und da kommt man auf die Idee einen Joplinserver für einen Blog zu verbiegen. na schauen wir mal ob das klappt…</p>
+<blockquote>
+<p>Schon bei dem ersten Bearbeiteungsversuch bin ich auf Probleme gestoßen. Die Verlinkung muss komplett über die Weblinks geschehen und nicht über die Markdownlinks der Notizen. Diese Veröffentlichungslinks können sich aber ändern. Wäre ja nicht shclimm, wenn man dann einen Link anpassen müsste. Aber durch die manuell angelegten Backlinks wird das eine Katastrophe. Warum ist das hier so? Bei dem Buchprojekt ist das Problem bis jetzt noch nicht aufgetaucht und die Datei habe ich schon 30 Mal überarbeitet.</p>
+</blockquote>
+<blockquote>
+<p>Das mit dem Bild hatte auch Startschwierigkeiten. Aber jetzt läuft das doch eigentlich ganz stabil. Sollten sich allerdings die Veröffentlichungslinks ändern… Ay Caramba. Das könnte einen nicht aufarbeitbaren Umstand ergeben.</p>
+</blockquote>
+<p><a title="https://joplin.moriartea.de/shares/8n5tZHbVp1V39Slr26emUL" href="https://joplin.moriartea.de/shares/8n5tZHbVp1V39Slr26emUL">Zurück</a></p>
+<style class="jop-noMdConv">
+/* Subdue the top-header branding */
+body.page-note nav.navbar { display: none; }
+
+/* Subdue the JoplinCloud footer */
+body.page-note > div.footer { display: none; }
+</style>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Startseite]]></title>
+            <guid>791e4df6ddb54999aa006b73d2de37d5</guid>
+            <pubDate>Sun, 14 May 2023 19:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[<img style="float:right" src="/_resources/2bf45986652148feba744755e3fe515f.png" width="400" class="jop-noMdConv" />
+# Willkommen bei meinem Blog
+MoriarT3a
+<hr />
+<h3 id="2023-05-14">2023-05-14</h3>
+<p><a title="https://joplin.moriartea.de/shares/wwmqlEAaRoGvwIfzKy3buQ" href="https://joplin.moriartea.de/shares/wwmqlEAaRoGvwIfzKy3buQ">Das Experiment beginnt</a></p>
+<style class="jop-noMdConv">
+/* Subdue the top-header branding */
+body.page-note nav.navbar { display: none; }
+
+/* Subdue the JoplinCloud footer */
+body.page-note > div.footer { display: none; }
+</style>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
